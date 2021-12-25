@@ -20,7 +20,7 @@ Allocation: 10,000,000,000 WORTH (10%) in Treasury MultiSig Safe
 
 To be deployed.
 
-**4. Worthpad CEO Vesting Wallet**
+**4. Worthpad CEO Vesting Wallet (Openzeppelin VestingWallet)**
 
 **Mr. Pieter Jansen (Worthpad's CEO) has vested his tokens for 52 years.**
 
@@ -28,7 +28,7 @@ Allocation: 5,000,000,000 WORTH (5%)
 
 WorthpadCEORewardsVestingWallet.sol: https://bscscan.com/address/0x3D175Ea91ca21B9Fd418cF63425204cA4994cC57#code
 
-**5. Worthpad Team Vesting Wallet**
+**5. Worthpad Team Vesting Wallet (Openzeppelin VestingWallet)**
 
 Allocation: 15,000,000,000 WORTH (15%)
 
@@ -36,7 +36,7 @@ Cliff: 365 Days (1 year), Linear Vesting: 365 Days (1 year)
 
 WorthpadTeamVestingWallet.sol:  https://bscscan.com/address/0xb4BbbA8F59F7655c0316DE82bbca1A007e93C41a#code
 
-**6. WorthpadEcosystemVestingWallet**
+**6. Worthpad Ecosystem Vesting Wallet (Openzeppelin VestingWallet)**
 
 Allocation: 10,000,000,000 WORTH (10%) 
 
@@ -44,7 +44,7 @@ Linear Vesting: 700 Days (2 years)
 
 WorthpadEcosystemVestingWallet.sol: https://bscscan.com/address/0x8c69228101A45E61dFB58F94AcDee5979Ba5f5f4#code
 
-**7. WorthpadLPVestingWallet**
+**7. Worthpad LP Vesting Wallet (Openzeppelin VestingWallet)**
 
 Allocation: 10,000,000,000 WORTH (10%)
 
@@ -52,7 +52,7 @@ Linear Vesting: 700 Days (2 years)
 
 WorthpadLPVestingWallet.sol: https://bscscan.com/address/0x96Ac9B36ce7fe1B6516990E2Be80954092a1a6c3#code
 
-**8. WorthpadLiquidityMiningVestingWallet**
+**8. Worthpad Liquidity Mining Vesting Wallet (Openzeppelin VestingWallet)**
 
 Allocation: 20,000,000,000 WORTH (20%)
 
@@ -60,7 +60,7 @@ Linear Vesting: 700 Days (2 Days)
 
 WorthpadLiquidityMiningVestingWallet.sol: https://bscscan.com/address/0x21395573FBa312A8a5B19Eabf127f1f99eC70244#code
 
-**9. WorthpadTreasuryVestingWallet**
+**9. Worthpad Treasury Vesting Wallet (Openzeppelin VestingWallet)**
 
 Allocation: 10,000,000,000 WORTH (10%)
 
@@ -68,7 +68,7 @@ Linear Vesting: 700 Days (2 years)
 
 WorthpadTreasuryVestingWallet.sol: https://bscscan.com/address/0x76C95214418B0AAc9C2BDd75714632E3b9420f45#code
 
-**10. WorthpadCommunityRewardsVestingWallet**
+**10. Worthpad Community Rewards Vesting Wallet (Openzeppelin VestingWallet)**
 
 Allocation: 10,000,000,000 WORTH (10%)
 
@@ -79,6 +79,8 @@ Linear Vesing: 365 Days (1 year)
 WorthpadCommunityRewardsVestingWallet.sol: https://bscscan.com/address/0x78888E80b3094b3Dd4C7Bb24984b12E98Ce911d4#code
 
 # Gnosis MultiSig Safe Details (2 out of 3 signers required for making any transaction)
+
+These Gnosis MultiSig Safes are beneficiaries of the Vesting Wallets
 
 1. Team: 0x98b8a3B155fc132c2e746C26F143BbF1109c6427
 
