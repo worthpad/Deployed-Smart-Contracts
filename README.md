@@ -96,7 +96,7 @@ These Gnosis MultiSig Safes are beneficiaries of the Vesting Wallets
 
 4. Liquidty Mining: 0x7CB75076CE41fde1740FAF5F7dA0CC70B6662fa6
 
-5. Treasury: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D
+5. Worth Treasury: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D
 
 6. Community Rewards: 0x98b8a3B155fc132c2e746C26F143BbF1109c6427
 
