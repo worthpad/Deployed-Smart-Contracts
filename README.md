@@ -6,7 +6,7 @@ Worthpad - Deployed Smart Conracts Verified on BSCScan
 
 Total Supply: 100,000,000,000 WORTH
 
-Owner: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D (Treasury Gnosis MultiSig Safe)
+Owner: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D (Worth Treasury Gnosis MultiSig Safe)
 
 Worth DVC Fund: 0xBDCD4b99d8ceFc4579862C232C5387B78bD604a5 (Worth DVC Fund Gnosis MultiSig Safe)
 
@@ -16,7 +16,7 @@ WorthToken.sol: https://bscscan.com/address/0x63982bbd062cf9d8efca59ec37609dcc0b
 
 Allocation: 10,000,000,000 WORTH (10%)
 
-Owner: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D (Treasury Gnosis MultiSig Safe)
+Owner: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D (Worth Treasury Gnosis MultiSig Safe)
 
 WorthTokenSale.sol: https://bscscan.com/address/0xa4a96a8d65b2d50213c5a4364ebdc20f7001a52f#code
 
