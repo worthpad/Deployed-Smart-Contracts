@@ -84,6 +84,12 @@ Linear Vesing: 365 Days (1 year)
 
 WorthpadCommunityRewardsVestingWallet.sol: https://bscscan.com/address/0x78888E80b3094b3Dd4C7Bb24984b12E98Ce911d4#code
 
+**11. Worth Token Time Lock Contract**
+
+WorthTokenTimeLock.sol: https://bscscan.com/address/0x7cb18f849c3788155b69933a144d370752a6fddc#code
+
+Owner: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D (Worth Treasury Gnosis MultiSig Safe)
+
 # Gnosis MultiSig Safe Details (2 out of 3 signers required for making any transaction)
 
 These Gnosis MultiSig Safes are beneficiaries of the Vesting Wallets
