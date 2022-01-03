@@ -28,8 +28,6 @@ Owner: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D (Worth Treasury Gnosis MultiSi
 
 WorthTokenPublicSale.sol: https://bscscan.com/address/0xaf1eedb8bc5364ca30e7e11c21379206e6d97d41#code
 
-To be deployed.
-
 **4. Worthpad CEO Vesting Wallet (OpenZeppelin VestingWallet)**
 
 **Mr. Pieter Jansen (Worthpad's CEO) has vested his tokens for 52 years.**
