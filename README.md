@@ -72,9 +72,9 @@ WorthpadLiquidityMiningVestingWallet.sol: https://bscscan.com/address/0x21395573
 
 Allocation: 10,000,000,000 WORTH (10%)
 
-Rollover: 18,898,831,000
-
 Linear Vesting: 700 Days (2 years)
+
+Rollover from Token Sale: 18,898,831,000
 
 WorthpadTreasuryVestingWallet.sol: https://bscscan.com/address/0x76C95214418B0AAc9C2BDd75714632E3b9420f45#code
 
