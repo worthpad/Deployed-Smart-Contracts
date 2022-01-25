@@ -22,7 +22,7 @@ WorthTokenSale.sol: https://bscscan.com/address/0xa4a96a8d65b2d50213c5a4364ebdc2
 
 **3. WORTH Token Public Sale Contract**
 
-Allocation: 17,800,000,000 WORTH
+Allocation: 185,169,000 WORTH
 
 Owner: 0x493F77C7279E2C4780E10C56aDF5cC182C1bBf3D (Worth Treasury Gnosis MultiSig Safe)
 
@@ -71,6 +71,8 @@ WorthpadLiquidityMiningVestingWallet.sol: https://bscscan.com/address/0x21395573
 **9. Worthpad Treasury Vesting Wallet (OpenZeppelin VestingWallet)**
 
 Allocation: 10,000,000,000 WORTH (10%)
+
+Rollover: 18,898,831,000
 
 Linear Vesting: 700 Days (2 years)
 
