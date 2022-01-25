@@ -64,7 +64,7 @@ WorthpadLPVestingWallet.sol: https://bscscan.com/address/0x96Ac9B36ce7fe1B651699
 
 Allocation: 20,000,000,000 WORTH (20%)
 
-Linear Vesting: 700 Days (2 Days)
+Linear Vesting: 700 Days (2 years)
 
 WorthpadLiquidityMiningVestingWallet.sol: https://bscscan.com/address/0x21395573FBa312A8a5B19Eabf127f1f99eC70244#code
 
